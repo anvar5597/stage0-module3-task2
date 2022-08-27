@@ -6,8 +6,8 @@ public class NamingConvention {
         int variableOne = 1;
         int variableTwo = 2;
         int variableThree = 3;
-        final int VARIABLEFOUR = 4;
-        final int VARIABLEFIVE = 5;
+        int variableFour = 4;
+        int variableFive = 5;
         int variableSix = 6;
         int variableseven = 7;
         int variableEight = 8;
